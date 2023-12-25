@@ -7,4 +7,5 @@
 * 予定の確認、リセットボタン設置
 
 # 備考
-*　hmtl/css/JavaScriptを使用し作成しました。
+* hmtl/css/JavaScriptを使用し作成しました。
+* JavaScript入門（実教出版）を使用して作成しました。
